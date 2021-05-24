@@ -8,7 +8,7 @@ function generateTitle() {
             section1.innerHTML = "Professional";
             break;
         case 1:
-            section1.innerHTML = "Wonderful";
+            section1.innerHTML = "Executive";
             break;
         case 2:
             section1.innerHTML = "Chief";
