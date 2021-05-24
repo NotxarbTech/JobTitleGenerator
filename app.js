@@ -41,7 +41,7 @@ function generateTitle() {
         case 5:
             section2.innerHTML = "Of Basketball";
     } 
-    switch (getRandomInt(6)) {
+    switch (getRandomInt(8)) {
         case 0:
             section3.innerHTML = "Sports";
             break;
@@ -59,5 +59,11 @@ function generateTitle() {
             break;
         case 5:
             section3.innerHTML = "Hairs";
+            break;
+        case 6:
+            section3.innerHTML = "Food";
+            break;
+        case 7:
+            section3.innerHTML = "Hotdogs";
     } 
 }
